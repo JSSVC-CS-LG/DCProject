@@ -1,0 +1,15 @@
+D:\Projects\JHTX\SWJ\DXApplication4\DXApplication4\bin\Debug\DXApplication4.exe
+D:\Projects\JHTX\SWJ\DXApplication4\DXApplication4\bin\Debug\DXApplication4.pdb
+D:\Projects\JHTX\SWJ\DXApplication4\DXApplication4\obj\Debug\DXApplication4.Form1.resources
+D:\Projects\JHTX\SWJ\DXApplication4\DXApplication4\obj\Debug\DXApplication4.Properties.Resources.resources
+D:\Projects\JHTX\SWJ\DXApplication4\DXApplication4\obj\Debug\DXApplication4.csproj.GenerateResource.Cache
+D:\Projects\JHTX\SWJ\DXApplication4\DXApplication4\obj\Debug\DXApplication4.exe.licenses
+D:\Projects\JHTX\SWJ\DXApplication4\DXApplication4\obj\Debug\DXApplication4.exe
+D:\Projects\JHTX\SWJ\DXApplication4\DXApplication4\obj\Debug\DXApplication4.pdb
+D:\Projects\JHTX\SWJ\DXApplication4\DXApplication4\obj\Debug\DXApplication4.csprojResolveAssemblyReference.cache
+D:\Projects\JHTX\SWJ\DXApplication4\DXApplication4\bin\Debug\Interop.WMPLib.dll
+D:\Projects\JHTX\SWJ\DXApplication4\DXApplication4\bin\Debug\AxInterop.WMPLib.dll
+D:\Projects\JHTX\SWJ\DXApplication4\DXApplication4\obj\Debug\Interop.WMPLib.dll
+D:\Projects\JHTX\SWJ\DXApplication4\DXApplication4\obj\Debug\AxInterop.WMPLib.dll
+D:\Projects\JHTX\SWJ\DXApplication4\DXApplication4\obj\Debug\DXApplication4.csproj.ResolveComReference.cache
+D:\Projects\JHTX\SWJ\DXApplication4\DXApplication4\obj\Debug\DXApplication4.XtraForm1.resources
