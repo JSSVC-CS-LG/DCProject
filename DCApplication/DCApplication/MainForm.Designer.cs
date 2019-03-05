@@ -41,12 +41,6 @@
             DevExpress.XtraEditors.TileItemElement tileItemElement10 = new DevExpress.XtraEditors.TileItemElement();
             DevExpress.XtraEditors.TileItemElement tileItemElement11 = new DevExpress.XtraEditors.TileItemElement();
             DevExpress.XtraEditors.TileItemElement tileItemElement12 = new DevExpress.XtraEditors.TileItemElement();
-            DevExpress.XtraEditors.TileItemElement tileItemElement13 = new DevExpress.XtraEditors.TileItemElement();
-            DevExpress.XtraEditors.TileItemElement tileItemElement14 = new DevExpress.XtraEditors.TileItemElement();
-            DevExpress.XtraEditors.TileItemElement tileItemElement15 = new DevExpress.XtraEditors.TileItemElement();
-            DevExpress.XtraEditors.TileItemElement tileItemElement16 = new DevExpress.XtraEditors.TileItemElement();
-            DevExpress.XtraEditors.TileItemElement tileItemElement17 = new DevExpress.XtraEditors.TileItemElement();
-            DevExpress.XtraEditors.TileItemElement tileItemElement18 = new DevExpress.XtraEditors.TileItemElement();
             this.tileControl1 = new DevExpress.XtraEditors.TileControl();
             this.tileGroup2 = new DevExpress.XtraEditors.TileGroup();
             this.tileItem2 = new DevExpress.XtraEditors.TileItem();
@@ -61,13 +55,6 @@
             this.tileItem9 = new DevExpress.XtraEditors.TileItem();
             this.tileItem10 = new DevExpress.XtraEditors.TileItem();
             this.tileItem11 = new DevExpress.XtraEditors.TileItem();
-            this.tileGroup4 = new DevExpress.XtraEditors.TileGroup();
-            this.tileItem12 = new DevExpress.XtraEditors.TileItem();
-            this.tileItem13 = new DevExpress.XtraEditors.TileItem();
-            this.tileItem14 = new DevExpress.XtraEditors.TileItem();
-            this.tileItem15 = new DevExpress.XtraEditors.TileItem();
-            this.tileItem16 = new DevExpress.XtraEditors.TileItem();
-            this.tileItem17 = new DevExpress.XtraEditors.TileItem();
             this.barManager1 = new DevExpress.XtraBars.BarManager(this.components);
             this.bar3 = new DevExpress.XtraBars.Bar();
             this.barStaticItem2 = new DevExpress.XtraBars.BarStaticItem();
@@ -93,7 +80,6 @@
             this.tileControl1.DragSize = new System.Drawing.Size(0, 0);
             this.tileControl1.Groups.Add(this.tileGroup2);
             this.tileControl1.Groups.Add(this.tileGroup3);
-            this.tileControl1.Groups.Add(this.tileGroup4);
             this.tileControl1.Location = new System.Drawing.Point(3, 45);
             this.tileControl1.MaxId = 19;
             this.tileControl1.Name = "tileControl1";
@@ -120,7 +106,7 @@
             tileItemElement1.Text = "tileItem2";
             this.tileItem2.Elements.Add(tileItemElement1);
             this.tileItem2.Id = 1;
-            this.tileItem2.ItemSize = DevExpress.XtraEditors.TileItemSize.Wide;
+            this.tileItem2.ItemSize = DevExpress.XtraEditors.TileItemSize.Medium;
             this.tileItem2.Name = "tileItem2";
             // 
             // tileItem5
@@ -128,7 +114,7 @@
             tileItemElement2.Text = "tileItem5";
             this.tileItem5.Elements.Add(tileItemElement2);
             this.tileItem5.Id = 4;
-            this.tileItem5.ItemSize = DevExpress.XtraEditors.TileItemSize.Wide;
+            this.tileItem5.ItemSize = DevExpress.XtraEditors.TileItemSize.Medium;
             this.tileItem5.Name = "tileItem5";
             // 
             // tileItem6
@@ -136,7 +122,7 @@
             tileItemElement3.Text = "tileItem6";
             this.tileItem6.Elements.Add(tileItemElement3);
             this.tileItem6.Id = 5;
-            this.tileItem6.ItemSize = DevExpress.XtraEditors.TileItemSize.Wide;
+            this.tileItem6.ItemSize = DevExpress.XtraEditors.TileItemSize.Medium;
             this.tileItem6.Name = "tileItem6";
             // 
             // tileItem7
@@ -144,7 +130,7 @@
             tileItemElement4.Text = "tileItem7";
             this.tileItem7.Elements.Add(tileItemElement4);
             this.tileItem7.Id = 6;
-            this.tileItem7.ItemSize = DevExpress.XtraEditors.TileItemSize.Wide;
+            this.tileItem7.ItemSize = DevExpress.XtraEditors.TileItemSize.Medium;
             this.tileItem7.Name = "tileItem7";
             // 
             // tileItem1
@@ -212,64 +198,6 @@
             this.tileItem11.Id = 11;
             this.tileItem11.ItemSize = DevExpress.XtraEditors.TileItemSize.Medium;
             this.tileItem11.Name = "tileItem11";
-            // 
-            // tileGroup4
-            // 
-            this.tileGroup4.Items.Add(this.tileItem12);
-            this.tileGroup4.Items.Add(this.tileItem13);
-            this.tileGroup4.Items.Add(this.tileItem14);
-            this.tileGroup4.Items.Add(this.tileItem15);
-            this.tileGroup4.Items.Add(this.tileItem16);
-            this.tileGroup4.Items.Add(this.tileItem17);
-            this.tileGroup4.Name = "tileGroup4";
-            // 
-            // tileItem12
-            // 
-            tileItemElement12.Text = "tileItem12";
-            this.tileItem12.Elements.Add(tileItemElement12);
-            this.tileItem12.Id = 13;
-            this.tileItem12.ItemSize = DevExpress.XtraEditors.TileItemSize.Wide;
-            this.tileItem12.Name = "tileItem12";
-            // 
-            // tileItem13
-            // 
-            tileItemElement13.Text = "tileItem13";
-            this.tileItem13.Elements.Add(tileItemElement13);
-            this.tileItem13.Id = 14;
-            this.tileItem13.ItemSize = DevExpress.XtraEditors.TileItemSize.Wide;
-            this.tileItem13.Name = "tileItem13";
-            // 
-            // tileItem14
-            // 
-            tileItemElement14.Text = "tileItem14";
-            this.tileItem14.Elements.Add(tileItemElement14);
-            this.tileItem14.Id = 15;
-            this.tileItem14.ItemSize = DevExpress.XtraEditors.TileItemSize.Wide;
-            this.tileItem14.Name = "tileItem14";
-            // 
-            // tileItem15
-            // 
-            tileItemElement15.Text = "tileItem15";
-            this.tileItem15.Elements.Add(tileItemElement15);
-            this.tileItem15.Id = 16;
-            this.tileItem15.ItemSize = DevExpress.XtraEditors.TileItemSize.Wide;
-            this.tileItem15.Name = "tileItem15";
-            // 
-            // tileItem16
-            // 
-            tileItemElement16.Text = "tileItem16";
-            this.tileItem16.Elements.Add(tileItemElement16);
-            this.tileItem16.Id = 17;
-            this.tileItem16.ItemSize = DevExpress.XtraEditors.TileItemSize.Wide;
-            this.tileItem16.Name = "tileItem16";
-            // 
-            // tileItem17
-            // 
-            tileItemElement17.Text = "tileItem17";
-            this.tileItem17.Elements.Add(tileItemElement17);
-            this.tileItem17.Id = 18;
-            this.tileItem17.ItemSize = DevExpress.XtraEditors.TileItemSize.Wide;
-            this.tileItem17.Name = "tileItem17";
             // 
             // barManager1
             // 
@@ -414,8 +342,8 @@
             // 
             // 
             this.tileNavItem1.Tile.DropDownOptions.BeakColor = System.Drawing.Color.Empty;
-            tileItemElement18.Text = "tileNavItem1";
-            this.tileNavItem1.Tile.Elements.Add(tileItemElement18);
+            tileItemElement12.Text = "tileNavItem1";
+            this.tileNavItem1.Tile.Elements.Add(tileItemElement12);
             this.tileNavItem1.Tile.ItemSize = DevExpress.XtraBars.Navigation.TileBarItemSize.Default;
             this.tileNavItem1.Tile.Name = "tileBarItem1";
             // 
@@ -456,13 +384,6 @@
         private DevExpress.XtraEditors.TileItem tileItem9;
         private DevExpress.XtraEditors.TileItem tileItem10;
         private DevExpress.XtraEditors.TileItem tileItem11;
-        private DevExpress.XtraEditors.TileGroup tileGroup4;
-        private DevExpress.XtraEditors.TileItem tileItem12;
-        private DevExpress.XtraEditors.TileItem tileItem13;
-        private DevExpress.XtraEditors.TileItem tileItem14;
-        private DevExpress.XtraEditors.TileItem tileItem15;
-        private DevExpress.XtraEditors.TileItem tileItem16;
-        private DevExpress.XtraEditors.TileItem tileItem17;
         private DevExpress.XtraBars.BarManager barManager1;
         private DevExpress.XtraBars.Bar bar3;
         private DevExpress.XtraBars.BarDockControl barDockControlTop;

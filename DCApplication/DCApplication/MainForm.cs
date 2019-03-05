@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DevExpress.XtraEditors;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -14,6 +15,16 @@ namespace DCApplication
         public MainForm()
         {
             InitializeComponent();
+
+            
+            TileGroup group = new TileGroup();
+            group.Text = "New";
+
+            TileItem item = new TileItem();
+            item.Text = "1";
+            group.Items.Add(item);
+
+            this.tileControl1.Groups.Add(group);
         }
 
 

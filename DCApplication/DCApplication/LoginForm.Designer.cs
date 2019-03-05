@@ -89,7 +89,7 @@
             this.cancelButton.Name = "cancelButton";
             this.cancelButton.Size = new System.Drawing.Size(75, 23);
             this.cancelButton.TabIndex = 3;
-            this.cancelButton.Text = "取消";
+            this.cancelButton.Text = "退出";
             this.cancelButton.Click += new System.EventHandler(this.cancelButton_Click);
             // 
             // loginButton
